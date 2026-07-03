@@ -40,8 +40,6 @@ When a shot hits an asteroid, it doesn't just disappear — it splits into two s
 <img src="assets/split_direction.png" width="500" alt="asteroid split direction diagram"/>
 </div>
 
-## Gameplay
-
 <!--
 GitHub doesn't support embedding local .mp4 files pushed via git — it only renders videos
 uploaded through the GitHub web editor. To add your gameplay clips:
