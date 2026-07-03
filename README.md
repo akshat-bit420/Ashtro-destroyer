@@ -52,12 +52,6 @@ uploaded through the GitHub web editor. To add your gameplay clips:
 4. Replace the placeholder lines below with that generated markdown
 -->
 
-**Gameplay clip 1** — *(drop video here via GitHub web editor)*
-
-**Gameplay clip 2** — *(drop video here via GitHub web editor)*
-
-**Gameplay clip 3** — *(drop video here via GitHub web editor)*
-
 ## Tech Stack
 
 - **Python**
